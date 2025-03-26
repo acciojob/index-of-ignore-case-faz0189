@@ -4,6 +4,7 @@ function indexOfIgnoreCase(str:string, subStr: string){
 
 console.log(indexOfIgnoreCase("Hello World","world"))
 console.log(indexOfIgnoreCase("kev is ","is"))
+console.log(indexOfIgnoreCase("bestyy","aaa"))
 
 
 
